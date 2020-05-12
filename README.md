@@ -7,8 +7,12 @@
 
 ## You need following libraries pre-installed on your system:
 1.face_recognition
+
 2.Opencv
+
 3.openpyxl
+
 4.datetime
+
 5.numpy
     
