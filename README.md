@@ -1,12 +1,14 @@
    # AUTOMATED ATTENDANCE USING FACE RECOGNITION 
- 
- ## Using python libraries
- 
-* The aim of the project is to create a system that marks attendance using facial recognition technology in classrooms 
-and storing the record efficiently in excel sheets. 
-
-* The attendance of the student was updated to the Excel sheet with a current timestamp after student's face has been recognized.
-
 
  
+* A python script that recognises faces and mark attendance for the recognised faces in an excel sheet.
+
+* Each time the attendance will be updated with a current timestamp and also month-wise new sheets will be created.
+
+## You need following libraries pre-installed on your system:
+1.face_recognition
+2.Opencv
+3.openpyxl
+4.datetime
+5.numpy
     
